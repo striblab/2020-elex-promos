@@ -1,3 +1,12 @@
 {
-  "show_charts": true
+  "show_maps": true,
+  "show_bubbles": true,
+  "show_trump": true,
+  "trump_text": "Vote totals from Minnesota counties, arranged in order from least supportive of Donald Trump in the 2016 election (Ramsey County) to the most supportive (Morrison County).",
+  "show_nonwhite": true,
+  "nonwhite_text": "Vote totals from Minnesota counties, arranged in order from smallest percentage of non-white residents (Big Stone County) to the largest percentage (Mahnomen County).",
+  "show_income": true,
+  "income_text": "Vote totals from Minnesota counties, arranged in order from smallest median income (Mahnomen County) to the largest (Carver County).",
+  "show_age": true,
+  "age_text": "Vote totals from Minnesota counties, arranged in order from lowest median age (Blue Earth County) to the highest (Aitkin County)."
 }
