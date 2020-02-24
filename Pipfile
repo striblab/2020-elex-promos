@@ -7,7 +7,8 @@ verify_ssl = true
 
 [packages]
 boto3 = "*"
+awscli = "*"
 csvkit = "*"
 
 [requires]
-python_version = "3.7"
+python_version = "3.6"

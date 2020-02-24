@@ -1,4 +1,5 @@
-import os, json, boto3
+import os, json
+import boto3
 
 bucketName = os.environ.get('BUCKET_NAME')
 wireOutput = "elections/projects/2020-election-results/wire.json"
