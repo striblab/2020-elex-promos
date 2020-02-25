@@ -1,0 +1,16 @@
+{
+  "local": [{"headline": "Minnesota Poll: Klobuchar, Sanders lead Democratic pack ahead of primary", "url": "http://www.startribune.com/klobuchar-and-sanders-lead-poll-of-minnesota-democrats/568110732/"}, {"headline": "What you need to know about Minnesota's presidential primary", "url": "http://www.startribune.com/what-you-need-to-know-before-minnesota-s-first-presidential-primary-since-1992/566660001/"}, {"headline": "Amy Klobuchar: Tracking the Minnesota senator's presidential campaign daily", "url": "http://www.startribune.com/amy-klobuchar-tracking-the-minnesota-senator-s-presidential-campaign/506439261/"}],
+  "wire": [{"headline": "National primary results", "url": "http://startribune.com"}, {"headline": "Moderates hustle to blunt Bernie Sanders' momentum after Nevada win", "url": "http://www.startribune.com/democrats-face-an-important-test-in-nevada-caucuses/568104692/"}, {"headline": "Reliability of pricey new voting machines questioned", "url": "http://www.startribune.com/reliability-of-pricey-new-voting-machines-questioned/568123422/"}],
+  "demographic": {
+    "show_maps": true,
+    "show_bubbles": true,
+    "show_trump": true,
+    "trump_text": "Vote totals from Minnesota counties, arranged in order from least supportive of Donald Trump in the 2016 election (Ramsey County) to the most supportive (Morrison County).",
+    "show_nonwhite": true,
+    "nonwhite_text": "Vote totals from Minnesota counties, arranged in order from smallest percentage of non-white residents (Big Stone County) to the largest percentage (Mahnomen County).",
+    "show_income": true,
+    "income_text": "Vote totals from Minnesota counties, arranged in order from smallest median income (Mahnomen County) to the largest (Carver County).",
+    "show_age": true,
+    "age_text": "Vote totals from Minnesota counties, arranged in order from lowest median age (Blue Earth County) to the highest (Aitkin County)."
+  }
+}
